@@ -1,0 +1,4 @@
+^pihole/
+^dnsmasq/
+^pihole-logs/
+^lighttpd-logs/
